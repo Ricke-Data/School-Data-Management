@@ -46,11 +46,11 @@ This project demonstrates my knowledge in data management, ETL processes, data w
 ## Images
 
 ### ODI Processes
-~~
+Examples of an ODI process used for ETL: (Images/ODI... .png)
 
 
 ### Database Examples
-~~
+Examples of the database structure: (images/Skolstvo... .png)
 
 
 #### Feel free to explore the repository and provide any feedback or suggestions.
