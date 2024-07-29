@@ -41,7 +41,7 @@ This project demonstrates my knowledge in data management, ETL processes, data w
 
 ## View database examples
 
-- Review the images of the database in the `images/education` directory to see the structure and data.
+- Review the images of the database in the `images/skolstvo` directory to see the structure and data.
 
 ## Images
 
